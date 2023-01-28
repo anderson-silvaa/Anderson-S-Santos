@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Olá, me chamo Anderson Silva. Seja bem-vindo(a) ao meu perfil 😁
 
 ### Atualmente estudando:
 <div style="display: inline_block"><br>
