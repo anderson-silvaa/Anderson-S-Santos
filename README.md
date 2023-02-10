@@ -9,11 +9,11 @@
  
  <br>
  
-  ## Minhas redes sociais
+  ## Meu linkedin
  
 <div> 
  
-  <a href="https://www.instagram.com/anderson.silvva/" target="_blank"><img src="https://www.instagram.com/theandersonsillva/" target="_blank"></a>
+ 
   <a href="https://www.linkedin.com/in/anderson-da-silva-santos-0b1951220/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
    ## Contato
